@@ -10,3 +10,4 @@ Main Features:
 4. Focus mode by long press on single event
 5. ProfileView which displays a summary of recent events
 6. Fully customized UI design
+7. All gesture-controlled UI
